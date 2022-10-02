@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/CODING/Eclipse/- JARS/1.18.1/AdvancedEnchantments-8.8.8.jar"/>
+	<classpathentry kind="lib" path="E:/CODING/Eclipse/- JARS/1.18.1/BuildTools.jar"/>
+	<classpathentry kind="lib" path="E:/CODING/Eclipse/- JARS/1.18.1/eco-6.16.2-all.jar"/>
+	<classpathentry kind="lib" path="E:/CODING/Eclipse/- JARS/1.18.1/EcoEnchants v8.14.27.jar"/>
+	<classpathentry kind="lib" path="E:/CODING/Eclipse/- JARS/1.18.1/Vault.jar"/>
+	<classpathentry kind="lib" path="E:/CODING/Eclipse/- JARS/1.18.1/worldedit-bukkit-7.2.8-SNAPSHOT-dist.jar"/>
+	<classpathentry kind="lib" path="E:/CODING/Eclipse/- JARS/1.18.1/worldguard-bukkit-7.0.6-dist.jar"/>
+	<classpathentry kind="lib" path="E:/CODING/Eclipse/- JARS/1.17/ProtocolLib 1.17.jar"/>
+	<classpathentry kind="lib" path="E:/CODING/Eclipse/- JARS/1.17/craftbukkit-1.17.jar"/>
+	<classpathentry kind="lib" path="E:/CODING/Eclipse/- JARS/1.16.5/spigot-1.16.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

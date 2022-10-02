@@ -1,0 +1,32 @@
+main: com.doxa.core.Main
+name: DemonSlayer
+version: 1.0
+description: Demon Slayer Core by Nick Doxa.
+api-version: 1.18
+author: Nick Doxa
+depend: [Vault, WorldGuard]
+commands:
+  breath:
+    description: main command for breath technique!
+  nichirin:
+    description: main command for nichirin swords!
+  discord:
+    description: main command for discord command!
+  choose:
+    description: main command for choosing breath form!
+  skins:
+    description: main command for changing sword skins!
+  staffchat:
+    description: main command for staffchat!
+  sc:
+    description: main command for staffchat abbreviation!
+  rechoose:
+    description: main command for rechoosing breath form!
+  stats:
+    description: main command for stats!
+  modspec:
+    description: main command for moderator spectator mode!
+  builder:
+    description: main command for builder teleportation!
+  hatz:
+    description: main command for hatz!
